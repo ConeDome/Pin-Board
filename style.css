@@ -11,7 +11,7 @@ body {
 h1 {
   font-size: 4rem;
   text-align: center;
-  font-family: "Bungee Shade", cursive;
+  font-family: "Potta One", cursive;
   color: #3d52d5;
   text-shadow: 0 0 5px #3d52d5;
 }
@@ -23,7 +23,7 @@ h1 {
 
 .searchLabel {
   font-size: 1.2rem;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto Slab", serif;
   margin: 0 0.2rem;
 }
 
@@ -31,16 +31,16 @@ h1 {
   height: 2rem;
   width: 25rem;
   box-shadow: 0 0 5px #090cb9;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto Slab", serif;
   margin: 0 0.2rem;
 }
 
 .searchResult {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto Slab", serif;
 }
 
 .newCardButton {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto Slab", serif;
   font-size: large;
   margin: 0 0.2rem;
 }
@@ -74,7 +74,7 @@ img {
 }
 .tagButton {
   text-shadow: 0 0 5px #090C9B;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto Slab", serif;
   font-size: medium;
   margin: 0.5rem;
 }
